@@ -41,7 +41,7 @@ Here we are giving war package format
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.174.131:8081/repository/cherry-Snap/</url>
+            <url>http://192.168.174.131:8081/repository/cherry-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
